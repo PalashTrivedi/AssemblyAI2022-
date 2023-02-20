@@ -1,4 +1,4 @@
-# Checkout the demo on this link:
+# Checkout the demo on the link below:
 https://rt-ts-assemblyai-ugtsfcaxsq-wl.a.run.app/
 
 # Getting Started with Create React App
