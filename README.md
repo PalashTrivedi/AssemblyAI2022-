@@ -1,5 +1,7 @@
 # Checkout the demo on the link below:
 https://rt-ts-assemblyai-ugtsfcaxsq-wl.a.run.app/
+
+## More about the project:
 https://devpost.com/software/customer-ai
 
 # Getting Started with Create React App
