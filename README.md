@@ -1,4 +1,4 @@
-#Chechout the demo on the link below:
+#Chechout the demo on this link:
 https://rt-ts-assemblyai-ugtsfcaxsq-wl.a.run.app/
 
 # Getting Started with Create React App
